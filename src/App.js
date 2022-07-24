@@ -6,6 +6,7 @@ import { Tracking } from "./components/Tracking";
 import { SomeoneStole } from "./components/SomeoneStole";
 import { Accident } from "./components/Accident";
 import { WeekendDate } from "./components/WeekendDate";
+import { Consultation } from "./components/Consultation";
 
 function App() {
   return (
@@ -19,6 +20,7 @@ function App() {
         <SomeoneStole />
         <Accident />
         <WeekendDate />
+        <Consultation />
       </div>
     </>
   );
