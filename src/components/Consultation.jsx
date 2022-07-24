@@ -57,7 +57,7 @@ export const Consultation = () => {
             />
           </div>
           <input
-            className="appearance-none bg-transparent border-none w-full text-gray-700 mr-3 py-1 px-2 leading-tight focus:outline-none"
+            className="cursor-pointer appearance-none bg-transparent border-none w-full text-gray-700 mr-3 py-1 px-2 leading-tight focus:outline-none"
             type="file"
           />
           <p className="text-sm text-gray-500">
@@ -66,7 +66,7 @@ export const Consultation = () => {
           <input
             type="submit"
             value="SUBMIT"
-            className="block px-4 py-2 bg-lime-700"
+            className="cursor-pointer block px-4 py-2 bg-lime-700"
           />
           <input type="checkbox" />
           <label htmlFor="NDA" className="ml-4 text-base">
