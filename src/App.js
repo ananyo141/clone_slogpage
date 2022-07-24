@@ -7,7 +7,7 @@ function App() {
     <>
       <Navbar />
       {/* Page Contents */}
-      <div className="bg-black h-screen px-20">
+      <div className="bg-black h-screen px-4 sm:px-20">
         <GetStarted />
       </div>
     </>
