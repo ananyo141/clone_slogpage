@@ -3,6 +3,9 @@ import { Navbar } from "./components/Navbar";
 import { GetStarted } from "./components/GetStarted";
 import { MakingSafer } from "./components/MakingSafer";
 import { Tracking } from "./components/Tracking";
+import { SomeoneStole } from "./components/SomeoneStole";
+import { Accident } from "./components/Accident";
+import { WeekendDate } from "./components/WeekendDate";
 
 function App() {
   return (
@@ -13,6 +16,9 @@ function App() {
         <GetStarted />
         <MakingSafer />
         <Tracking />
+        <SomeoneStole />
+        <Accident />
+        <WeekendDate />
       </div>
     </>
   );

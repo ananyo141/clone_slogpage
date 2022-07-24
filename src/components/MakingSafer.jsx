@@ -6,7 +6,7 @@ export const MakingSafer = () => {
     <section className="flex justify-between overflow-hidden lg:justify-center lg:gap-x-96">
       <div className="flex flex-col gap-8">
         <h3 className="text-3xl">Making Cars - </h3>
-        <ul className="text-4xl leading-loose">
+        <ul className="text-5xl leading-loose">
           <li>Smarter</li>
           <li>Safer</li>
           <li>Reliable</li>
