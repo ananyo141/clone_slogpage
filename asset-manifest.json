@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/clone_slogpage/static/css/main.a31d4cef.css",
+    "main.js": "/clone_slogpage/static/js/main.9b87e02d.js",
+    "static/js/787.04c25d14.chunk.js": "/clone_slogpage/static/js/787.04c25d14.chunk.js",
+    "static/media/obd config remote diagnos.png": "/clone_slogpage/static/media/obd config remote diagnos.c7b81b6b958297e4d247.png",
+    "static/media/gps mockup screen 3.png": "/clone_slogpage/static/media/gps mockup screen 3.e50557e59948ad1d10f8.png",
+    "static/media/sos mockup six sense.png": "/clone_slogpage/static/media/sos mockup six sense.ebf622829b567e143051.png",
+    "static/media/formbg.png": "/clone_slogpage/static/media/formbg.2585e6d5c9b74c3e4c84.png",
+    "static/media/IMMOBILISER.png": "/clone_slogpage/static/media/IMMOBILISER.47ab0f77eec7516d3264.png",
+    "static/media/logo.png": "/clone_slogpage/static/media/logo.225084e3fbdeecaf96a3.png",
+    "static/media/PHOTO-2020-09-29-15-25-59-removebg-preview.png": "/clone_slogpage/static/media/PHOTO-2020-09-29-15-25-59-removebg-preview.0a9ed1fe7d5545ec2da4.png",
+    "static/media/obd 1.png": "/clone_slogpage/static/media/obd 1.c8c718bf6e1f0dedbbb2.png",
+    "static/media/PHOTO-2020-09-29-15-26-00_1_-removebg-preview.png": "/clone_slogpage/static/media/PHOTO-2020-09-29-15-26-00_1_-removebg-preview.52845a7b4be14afd00c8.png",
+    "index.html": "/clone_slogpage/index.html",
+    "main.a31d4cef.css.map": "/clone_slogpage/static/css/main.a31d4cef.css.map",
+    "main.9b87e02d.js.map": "/clone_slogpage/static/js/main.9b87e02d.js.map",
+    "787.04c25d14.chunk.js.map": "/clone_slogpage/static/js/787.04c25d14.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a31d4cef.css",
+    "static/js/main.9b87e02d.js"
+  ]
+}
